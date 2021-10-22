@@ -1,0 +1,12 @@
+.background {
+    background-color:#FDF6E3;
+    overflow: hidden;
+
+    font-family: 'Space Grotesk';
+}
+
+.bigblob {
+    position: absolute;
+    top: 0;
+
+}
